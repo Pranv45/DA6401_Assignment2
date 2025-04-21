@@ -20,11 +20,17 @@ Report link :https://wandb.ai/me21b118-iit-madras/da6401-assignment2/reports/DA6
 - We performed sweep-based hyperparameter tuning using wandb.
 - Best model configuration :
     -activation:"SiLU"
+
     -dense_neurons:64
+
     -epochs:30
+
     -filters_layer1:16
+
     -filters_layer2:128
+
     -kernel_size:5
+    
     -lr:0.01
 
 ---
